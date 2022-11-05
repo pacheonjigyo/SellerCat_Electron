@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+
+.ant-table table { 
+  font-size: 13px;
+}
+
+#root > div > div > div > div > div.ant-table-wrapper > div > div > div > div > div.ant-table-body > table > tbody > tr > td:nth-child(3) {
+  font-size: 20px;
+}
